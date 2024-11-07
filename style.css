@@ -1,0 +1,19 @@
+#birthdate{
+    width: 150px;
+    height: 30px;
+    background: lightslategray;
+    border: 1px solid black;
+    color: yellow;
+}
+.button{
+    width: 90px;
+    height: 30px;
+    background-color: lightslategrey;
+    border: 1px solid black;
+    color: red;
+
+}
+body{
+    margin-left: 610px;
+  
+}
